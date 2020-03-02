@@ -38,6 +38,7 @@
         android:id="@+id/textem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="info@intercity.com.na"
         android:background="@drawable/bg_round"
         android:inputType="textEmailAddress"
         android:lines="1"
@@ -59,6 +60,7 @@
         android:id="@+id/textna"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="Angeline"
         android:background="@drawable/bg_round"
         android:lines="1"
         tools:layout_editor_absoluteX="0dp"
@@ -79,6 +81,7 @@
         android:id="@+id/textsna"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="Mukamana"
         android:background="@drawable/bg_round"
         android:lines="1"
         tools:layout_editor_absoluteX="0dp"
@@ -99,6 +102,7 @@
         android:id="@+id/textdob"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="31 December 1998"
         android:background="@drawable/bg_round"
         android:lines="1"
         tools:layout_editor_absoluteX="0dp"
@@ -119,6 +123,10 @@
         android:id="@+id/texttxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="I think I'm the best candidate for your
+team because I like working with people, learning more
+about this field and I'm open to new opportunities. I learn
+from my mistakes and always try to be as involved as possible. "
         android:background="@drawable/bg_round"
         android:lines="12"
         android:gravity="start|top"
